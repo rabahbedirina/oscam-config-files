@@ -1,0 +1,902 @@
+File does not exist or no file selected!0100:000000 |Mediaguard CAid|
+0100:00002A |Mediatech (4W)&[EMU]|
+0100:00002F |OSN (26E/8W)|
+0100:000030 |RaiSat (13E)&[EMU]|
+0100:000036 |OSN (26E/8W)|
+0100:00003D |Bis TV (13E/19E/12W)|
+0100:00003E |(ID.Unused) Bis TV|
+0100:000065 |Cyfra+ VOD|
+0100:000068 |Cyfra+ (13E)|
+0100:00006A |Canal+ Nederland (19E/23E)|
+0100:00006B |Canal+ Nederland HD (19E/23E)|
+0100:00006C |TV Vlaanderen (19E/23E)|
+0100:00006D |TeleSat Wallonne (13E/19E/23E)|
+0100:00006E |CanalSat Horizons (22W)|
+0100:00006F |(ID.Unused) CanalSat Horizons|
+0100:000084 |Numericable-MTV (19E)|
+0100:000085 |FTC-MTV (19E)|
+0100:000086 |Equidia (13E)|
+0100:000091 |CanalSatellite Reunion (16E)|
+0100:00009B |BeTV Wallons/Canal+ Belgique (DVBC)|
+0100:00009C |Canal+ Vlaanderen (DVBC)|
+0100:00009D |(ID.Unused) Canal+ Belgique|
+0100:00009E |(ID.Unused) Canal+ Vlaanderen|
+0100:00009F |CanalSat Reunion (16E)/Caraibes (31W/34W)|
+0100:0000A7 |TopUp TV (DVBT)[16E]|
+0100:0000AB |Astro TV (91E)|
+0100:0000AC |(ID.Unused) Astro TV|
+0100:0000AD |(ID.Unused) Astro TV|
+0100:0000AE |(ID.Unused) Astro TV|
+0100:0000AF |Zee Network (105E)|
+0100:0000B0 |(ID.Unused) Zee Boquet|
+0100:0000B1 |Mediaset (13E/5W)|
+0100:0000B2 |(ID.Unused) Mediaset|
+0100:000140 |Telecom (DVBC)|
+0100:000141 |Telecom (DVBC)|
+0100:000142 |Telecom (DVBC)|
+0100:000143 |Telecom (DVBC)|
+0100:000144 |Telecom (DVBC)|
+0100:000145 |Telecom (DVBC)|
+0100:000147 |TopUp TV (DVBT)[16E]|
+0100:000156 |Tv Numeric (DVBT)[5W]|
+0100:000157 |(ID.Unused) Tv Numeric|
+0100:000158 |Tv Numeric C+ (DVBT)|
+0100:00015A |(ID.Unused) Tv Numeric|
+0100:000185 |TopUp TV (DVBT)[16E]|
+0100:0002E2 |RAI (13E)&[EMU]|
+0100:0003EC |Eurosport HD (13E)|
+0100:000403 |Satro SK (DVBC)|
+0100:0004E0 |Hustler HD-3D (13E)|
+0100:000904 |Satro SK (DVBC)|
+0100:003311 |CanalSat France (19E)|
+0100:003315 |Canal+ France (19E)|
+0100:003317 |CanalPro France (19E)|
+0100:00331B |(ID.Unused) CSAT|
+0100:00331D |(ID.Unused) CSAT|
+0100:003323 |Tv Numeric/CSAT 1 (DVBT)|
+0100:003327 |Tv Numeric/CSAT 2 (DVBT)|
+0100:00332B |Tv Numeric/CANAL+ (DVBT)|
+0100:003331 |Tv Numeric/ADMIN (DVBT)|
+0100:003341 |(ID.Unused) Mediaguard V10.0|
+0100:004106 |Digital+ (19E)|
+0100:004108 |(ID.Unused) Digital+|
+0100:005001 |(ID.Unused) Digital+|
+0100:005211 |(ID.Unused) MEO ADMIN|
+0100:005221 |MEO PT DHT (30W)|
+0100:005225 |(ID.Unused) MEO RFU|
+0100:005E11 |Canal+ NL Mediaguard v10.0 (19E/23E)|
+0100:005E12 |(ID.Unused) Canal+ NL|
+0100:005E14 |(ID.Unused) Canal+ NL|
+0100:005E16 |(ID.Unused) Canal+ NL|
+0100:00A821 |Numericable (19E/13E)|
+0100:00A825 |Canal+ France (19E)|
+0100:00A829 |(ID.Unused) CanalSat|
+0100:00AA41 |BeTV Premium HD (regional DVB-C)|
+0100:00AA44 |Voo HD (regional DVB-C)|
+0100:005E22 |Tv Numeric (DVBT)|
+0100:005E24 |Tv Numeric C+ (DVBT)|
+0500:000000 |Viaccess CAid|
+0500:007400 |MEZZO/MCM Belgique (13E/5W)&[EMU]|
+0500:007800 |SIC Internacional (16E)&[EMU]|
+0500:013000 |SIC Internacional (16E)|
+0500:015400 |Globecast France (5W)|
+0500:018800 |Deepam TV (13E)|
+0500:018810 |(ID.Unused) Deepam|
+0500:018820 |(ID.Unused) Deepam|
+0500:020500 |Boxer (DVBT)|
+0500:020510 |(ID.Unused) Boxer (DVBT)|
+0500:020520 |(ID.Unused) Boxer (DVBT)|
+0500:020530 |(ID.Unused) Boxer (DVBT)|
+0500:020540 |(ID.Unused) Boxer (DVBT)|
+0500:020810 |Game One (13E)|
+0500:020820 |(ID.Unused) Game One|
+0500:020900 |Globecast (13E/7E)|
+0500:020910 |GlobeCast/TBD (13E/9E/7E/40W)|
+0500:020A00 |HRT Croatia (13E)|
+0500:020A10 |(ID.Unused) HRT Croatia|
+0500:020A20 |(ID.Unused) HRT Croatia|
+0500:020A30 |(ID.Unused) HRT Croatia|
+0500:020A40 |HRT CMC (13E)|
+0500:021110 |ART/Ant1 (13E/39E)|
+0500:021120 |(ID.Unused) ART|
+0500:021200 |Asianet/AsiaFM (9E/13E/88E)|
+0500:021210 |(ID.Unused) RRSat/TBL|
+0500:021220 |(ID.Unused) RRSat/TBL|
+0500:021400 |pacific/asia provider|
+0500:021520 |Musicam (9E)|
+0500:021560 |ST-Hilo (30W)|
+0500:021700 |Private Spice (13E)|
+0500:021900 |BHT Bosnia TV (16E/12W)|
+0500:021A00 |Globecast Spain (30W)|
+0500:021A10 |Globecast (12W/42E)|
+0500:021B00 |Deepam TV (13E)|
+0500:021B10 |(ID.Unused) Deepam|
+0500:021D00 |Parabole Reunion (16E)|
+0500:021E00 |GMA Network (138°E)|
+0500:022000 |I-Sky-Net|
+0500:022010 |I-Sky-Net (138E)|
+0500:022020 |I-Sky-Net|
+0500:022030 |146-SkyNet|
+0500:022040 |146-SkyNet (146E)|
+0500:0220500:0 |146-SkyNet|
+0500:022200 |Televisa (24W/43W-C)|
+0500:022210 |(ID.Unused) Televisa|
+0500:022400 |Vietnam Cable Television|
+0500:022410 |(ID.Unused) Vietnam Cable Television|
+0500:022500 |DORCEL (19E)|
+0500:022610 |TPS/CanalSat France (19E)|
+0500:022620 |(ID.Unused) CANALSAT TPS|
+0500:022A00 |Eurosport (13E/7E)|
+0500:022B00 |Poverkhnost+ (36E/39E)|
+0500:022C00 |RTVi (13E)|
+0500:022D00 |NTV Mir (5E)|
+0500:022E00 |Neovisne TV Hayat (13E/4W)|
+0500:022E10 |(ID.Unused) Neovisne TV Hayat|
+0500:022F00 |MAX TV (5E/13E/16E/12W)|
+0500:022F10 |(ID.Unused) MAX TV|
+0500:023000 |SIC Internacional (16E)|
+0500:023100 |NSAB (5E)|
+0500:023110 |(ID.Unused) NSAB|
+0500:023120 |(ID.Unused) NSAB|
+0500:023130 |(ID.Unused) NSAB|
+0500:023140 |(ID.Unused) NSAB|
+0500:023200 |Boxer (DVBT)|
+0500:023210 |(ID.Unused) Boxer (DVBT)|
+0500:023220 |(ID.Unused) Boxer (DVBT)|
+0500:023230 |(ID.Unused) Boxer (DVBT)|
+0500:023240 |(ID.Unused) Boxer (DVBT)|
+0500:023600 |MCM TOP (19E)|
+0500:023700 |HTB+ (36E)|
+0500:023710 |(ID.Unused) HTB+|
+0500:023800 |SRG Swiss (13E)|
+0500:023A00 |GlobeCast (13E/16E/9E/7E)|
+0500:023A10 |myZen (9E)|
+0500:023A20 |GlobeCast France (5W)|
+0500:023B10 |Disney (9E)|
+0500:023D00 |HTB+ Boctok (56E)|
+0500:024300 |Globecast (13E/9E)|
+0500:024310 |(ID.Unused) Globecast|
+0500:024500 |SVT Europa (9E)|
+0500:024510 |(ID.Unused) SVT Europa|
+0500:024520 |(ID.Unused) SVT Europa|
+0500:024700 |Nat Geo (4W)|
+0500:024900 |CFI (5W-C)|
+0500:024B00 |RTVi (13E)|
+0500:024F00 |Max TV (5E/16E/13E/12W)|
+0500:024F10 |(ID.Unused) Max TV|
+0500:025000 |TV Orange (IPTV/DVBT)|
+0500:025010 |TV Orange (IPTV/DVBT)|
+0500:025020 |TV Orange MLTV (IPTV/DVBT)|
+0500:025030 |TV Orange (IPTV/DVBT)|
+0500:025100 |Redlight Premium (13E/5W)|
+0500:025200 |GlobeCast BT|
+0500:025210 |Deepam TV (13E)|
+0500:025700 |NKS Media (4E/90E)|
+0500:025800 |Poverkhnost+ (36E/39E)|
+0500:025900 |TVR (16E)|
+0500:025910 |(ID.Unused) TVR|
+0500:030100 |Eurosport HD (13E/7E/75E)|
+0500:030600 |HTB+ (36E)|
+0500:030A00 |HRT/MTV Adria (13E/4W)|
+0500:030A10 |(ID.Unused) HRT|
+0500:030A20 |(ID.Unused) HRT|
+0500:030A30 |(ID.Unused) HRT|
+0500:030A40 |(ID.Unused) HRT|
+0500:030B00 |TNT Sat (19E)|
+0500:030C00 |Y&S (12W)|
+0500:031000 |TV Slovenija (13E)|
+0500:031100 |GlobeCast France (19E)|
+0500:031200 |myZen.tv (9E)|
+0500:031B00 |RTB (19E)|
+0500:031C00 |BBC Polska (13E)|
+0500:031D00 |D-Sky (138E)|
+0500:031D10 |(ID.Unused) D-Sky|
+0500:032100 |Mir (36E)|
+0500:032200 |Tv Numeric/TNtop (DVBT)[5W]|
+0500:032210 |Tv Numeric C+ (DVBT)[5W]|
+0500:032220 |(ID.Unused) TNtop|
+0500:032230 |(ID.Unused) TNtop|
+0500:032300 |Motors TV (13E)|
+0500:032500 |Private Spice (13E)|
+0500:032510 |(ID.Unused) Private Spice|
+0500:032830 |CanalSat France (19E)|
+0500:032840 |(ID.Unused) CSAT|
+0500:032880 |(ID.Unused) CSAT|
+0500:032900 |Orange TNT/TV Numeric (DVBT)|
+0500:032910 |(ID.Unused) Orange TV|
+0500:032920 |Orange SAT (19E/13E/5W/12W)|
+0500:032930 |(ID.Unused) Orange TV|
+0500:032940 |(ID.Unused) Orange TV|
+0500:032950 |(ID.Unused) Orange TV|
+0500:032A00 |Orange Polska (13E)|
+0500:032A10 |(ID.Unused) Orange Polska CANAL+|
+0500:032A20 |(ID.Unused) Orange Polska CANAL+|
+0500:032A30 |(ID.Unused) Orange Polska CANAL+|
+0500:032A40 |(ID.Unused) Orange Polska CANAL+|
+0500:032D20 |STAR TV (83E)|
+0500:032D90 |ARY (9E)|
+0500:032E00 |(ID.Unused) ARY|
+0500:033000 |Tv Numeric (DVBT)|
+0500:040100 |Boxer (DVBC)|
+0500:040110 |(ID.Unused) Boxer|
+0500:040120 |(ID.Unused) Boxer|
+0500:040130 |(ID.Unused) Boxer|
+0500:040210 |YouSee/TDC Denmark (DVB-C)|
+0500:040220 |(ID.Unused) YouSee/TDC Denmark|
+0500:040230 |(ID.Unused) YouSee/TDC Denmark|
+0500:040240 |(ID.Unused) YouSee/TDC Denmark|
+0500:040500:00 |Globecast (9E/13E/5W)|
+0500:040510 |Globecast (9E/13E/5W)|
+0500:040600 |HTB+ (36E)|
+0500:040610 |HTB+ Light (36E)|
+0500:040620 |HTB+ (36E)|
+0500:040810 |SRG Swiss (13E)|
+0500:040820 |(ID.Unused) SRG Swiss|
+0500:040830 |(ID.Unused) SRG Swiss|
+0500:040A00 |BBC (9E)|
+0500:040A10 |(ID.Unused) BBC|
+0500:040C00 |TNS (180E)|
+0500:040F40 |Canal+ France (19E)|
+0500:041100 |Canal+ Marghreb (26E)|
+0500:041140 |Canal+ Marghreb (26E)|
+0500:041200 |TRK/Racing (5E)|
+0500:041500 |ART/JSC (7W)|
+0500:041510 |(ID.Unused) ART|
+0500:041520 |(ID.Unused) ART|
+0500:041530 |(ID.Unused) ART|
+0500:041700 |Redlight New Elite (13E/5W/12W)|
+0500:041710 |(ID.Unused) Redlight New Elite|
+0500:041820 |TV Festival (19E)|
+0500:041900 |FranSat (5W)|
+0500:041910 |(ID.Unused) FranSat|
+0500:041920 |(ID.Unused) FranSat|
+0500:041930 |(ID.Unused) FranSat|
+0500:041940 |(ID.Unused) FranSat|
+0500:041950 |FranSat HD (5W)|
+0500:041960 |FranSat HD (5W)|
+0500:0419A0 |FranSat HD (5W)|
+0500:041E00 |Nova (23E)|
+0500:041F00 |Eurosport HD (13E/7E/5W/75E)|
+0500:042100 |Poverkhnost+ DTH (36E/39E)|
+0500:042200 |Dolly Buster (13E)|
+0500:042210 |(ID.Unused) Dolly Buster|
+0500:042300 |RTVI (13E)|
+0500:042310 |(ID.Unused) RTVI|
+0500:042400 |JSC Sports (13E/20E/26E/7W)|
+0500:042410 |(ID.Unused) JSC Sports|
+0500:042500 |Canal+ Wallonne (19E/23E/13E)|
+0500:042510 |(ID.Unused) Canal+ Wallonne|
+0500:042520 |(ID.Unused) Canal+ Wallonne|
+0500:042530 |(ID.Unused) Canal+ Wallonne|
+0500:042600 |Arqiva (9E)|
+0500:042610 |British Telekom (9E)|
+0500:042620 |(ID.Unused) British Telekom|
+0500:042630 |TBS (13E/19E)|
+0500:042700 |SCT (13E)|
+0500:042710 |(ID.Unused) SCT|
+0500:042720 |Telefonica (9E)|
+0500:042730 |Sundance (9E)|
+0500:042740 |Penthouse HD (9E)|
+0500:042760 |TSA (24W)|
+0500:042800 |BIS TV (13E/5W/19E/12W)|
+0500:042810 |(ID.Unused) BIS TV|
+0500:042A00 |CanalSat France (19E)|
+0500:042A10 |(ID.Unused) CSAT|
+0500:042C00 |Asianet/Mezzo HD (9E)|
+0500:043010 |2STV (7E)|
+0500:043200 |TNT France (5W/DVBT)|
+0500:043300 |TNT (19E)|
+0500:043330 |CanalSat France (19E)|
+0500:043400 |France TV (180E)|
+0500:043800 |Redlight HD (13E)|
+0500:043810 |(ID.Unused) Redlight HD|
+0500:043900 |Pro TV (13E)|
+0500:043A00 |Star Vijay (9E)|
+0500:043A10 |(ID.Unused) Star Vijay|
+0500:047500 |JSC Sports (13E/20E/26E/7W)|
+0500:050100 |HTB+ (36E)|
+0500:050600 |MTV Networks (9E/13E/19E/0.8W/4W)|
+0500:050800 |SRG Swiss (13E)|
+0500:050900 |NTV Plus Vostok (56E)|
+0500:050A00 |HTB+ (36E)|
+0500:050B00 |HTB+ (36E)|
+0500:050F00 |Redlight/Hustler HD-3D (13E)|
+0500:FFF320 |Issuer NSAB (5E)|
+0500:FFF400 |Issuer GC/ART/BiS/TNT/CSAT/BBC (13E/19E/9E)|
+0500:FFF420 |Issuer Unknown|
+0500:FFF430 |Issuer SRG (13E)|
+0500:FFF450 |Issuer SVT (5E)|
+0500:FFF460 |Issuer BBC Prime (13E)|
+0500:FFF4A0 |Issuer HRT (13E)|
+0500:FFF4B0 |Issuer TVS (13E)|
+0500:FFF4F0 |Issuer pacific region|
+0500:FFF500 |Issuer HTB+ (36E)|
+0500:FFF510 |Issuer Boxer (DVBC)|
+0500:FFF530 |Issuer Televisa (24W/43W-C)|
+0500:FFF560 |Issuer Localia (30W)|
+0500:FFF5B0 |Issuer Unknown|
+0500:FFF5F0 |Issuer Deepam (13E)|
+0500:FFF610 |Issuer Unknown|
+0500:FFF710 |Issuer Hayat (13E/4W)|
+0500:FFF720 |Issuer TVR Cultural (Old)|
+0500:FFF780 |Issuer RTVi (13E)|
+0500:FFF7A0 |Issuer Redlight (9E)|
+0500:FFF7E0 |Issuer SPI (4W)|
+0500:FFF810 |Issuer RL/Private Spice (13E)|
+0500:FFF820 |Issuer BHT/MAX TV (5E/13E/16E)|
+0500:FFF830 |Issuer Dorcel/FreeX (13E)|
+0500:FFF840 |Issuer pacific region|
+0500:FFF860 |Issuer Unknown|
+0500:FFF890 |Issuer Poverkhnost (36E)|
+0500:FFF8A0 |Issuer MAX TV (5E/13E/16E)|
+0500:FFF8F0 |Issuer Redlight (9E)|
+0500:FFF920 |Issuer JSC Sport+ (13E)|
+0500:FFFA30 |Issuer STAR TV (83E)|
+0500:FFFA50 |Issuer ARY (9E)|
+0500:FFFAA0 |Issuer RedHotSex (13E)|
+0500:FFFD00 |Issuer DP/ST-Hilo (9E/30W)|
+0600:000000 |Irdeto CAid|
+0602:000000 |Stellar/Kontinent (70E/75E/85E)|
+0602:000001 |(ID.Unused) Stellar/Kontinent|
+0602:000002 |(ID.Unused) Stellar/Kontinent|
+0602:000003 |(ID.Unused) Stellar/Kontinent|
+0603:000000 |JSC Sports (13E/20E/26E/7W)|
+0603:000001 |(ID.Unused) JSC Sports|
+0603:000002 |(ID.Unused) JSC Sports|
+0603:000003 |(ID.Unused) JSC Sports|
+0604:000000 |TVB/Nova-SCT/Bulsatcom/DSTV/True/ART-JSC/CTI (9E/13E/39E/68E/78E/7W/15W)|
+0604:000001 |Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000002 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000003 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000004 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000005 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000006 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000007 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0604:000010 |(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)| 
+0606:000000 |MultiChoice Africa(39E-68E)/RTV21 (1W)|
+0608:000000 |Stream/ZeeTV (75E/13E)|
+0608:000001 |(ID.Unused) Stream/ZeeTV|
+0608:000002 |(ID.Unused) Stream/ZeeTV|
+0608:000003 |(ID.Unused) Stream/ZeeTV|
+0614:000000 |Globecast (13E/10E/9E)|
+0615:000000 |SkyLogic/Viacom (33E/68E-C)|
+0616:000000 |Alfa/Sitel (39E/16E)|
+0616:000001 |(ID.Unused) Alfa/Sitel|
+0616:000002 |(ID.Unused) Alfa/Sitel|
+0616:000003 |(ID.Unused) Alfa/Sitel|
+0621:000000 |Adulto (45W)|
+0622:000000 |Canal+ NL (19E/23E)|
+0622:000001 |(ID.Unused) Canal+ NL|
+0622:000002 |(ID.Unused) Canal+ NL|
+0622:000003 |(ID.Unused) Canal+ NL|
+0623:000000 |Skylink (23E/19E)|
+0623:000001 |(ID.Unused) (Skylink|
+0623:000002 |(ID.Unused) (Skylink|
+0623:000003 |(ID.Unused) Skylink|
+0624:000000 |Skylink/WDS (23E/19E)|
+0624:000001 |(ID.Unused) Skylink|
+0624:000002 |(ID.Unused) Skylink|
+0624:000003 |(ID.Unused) Skylink|
+0625:000000 |DollyBuster/RRSat/MGM/AXN (13E/9E/10E/75E)|
+0625:000001 |(ID.Unused) RRSat/MGM|
+0625:000002 |(ID.Unused) RRSat/MGM|
+0625:000003 |(ID.Unused) RRSat/MGM|
+0627:000000 |JSC (7W)|
+0627:000001 |(ID.Unused) JSC|
+0627:000002 |(ID.Unused) JSC|
+0627:000003 |(ID.Unused) JSC|
+0628:000000 |Redlight HD/SCT (13E&5W)|
+0628:000001 |(ID.Unused) Redlight HD/SCT|
+0628:000002 |(ID.Unused) Redlight HD/SCT|
+0628:000003 |(ID.Unused) Redlight HD/SCT|
+0630:000000 |Redlight HD/SUN (13E&5W/93E)|
+0631:000000 |Dialog TV (45E)|
+0632:000000 |Teuve (24W)|
+0634:000000 |MBC HD (7E)/Raduga Light (75E)|
+0637:000000 |Almajd (26E)|
+0637:000001 |(ID.Unused) Almajd|
+0637:000002 |(ID.Unused) Almajd|
+0637:000003 |(ID.Unused) Almajd|
+0640:000000 |SUN (9E)|
+0646:000000 |BFBS (10E)|
+0646:000001 |BFBS (10E)|
+0646:000002 |BFBS (10E)|
+0646:000003 |BFBS (10E)|
+0647:000000 |SCT HD/Redlight HD/Hustler HD (13E)|
+0647:000001 |(ID.Unused) SCT HD/Redlight HD/Hustler HD|
+0647:000002 |(ID.Unused) SCT HD/Redlight HD/Hustler HD|
+0647:000003 |(ID.Unused) SCT HD/Redlight HD/Hustler HD|
+0648:000000 |ORF/AustriaSat (19E)|
+0648:000001 |(ID.Unused) ORF/AustriaSat|
+0648:000002 |(ID.Unused) ORF/AustriaSat|
+0648:000003 |(ID.Unused) ORF/AustriaSat|
+0649:000000 |SUN (100E)|
+0649:000001 |(ID.Unused) SUN|
+0649:000002 |(ID.Unused) SUN|
+0649:000003 |(ID.Unused) SUN|
+0652:000000 |Raduga TV (75E)|
+0652:000001 |(ID.Unused) Raduga TV|
+0652:000002 |(ID.Unused) Raduga TV|
+0652:000003 |(ID.Unused) Raduga TV|
+0653:000000 |UPC Direct (0.8E)|
+0653:000001 |(ID.Unused) UPC Direct|
+0653:000002 |(ID.Unused) UPC Direct|
+0654:000000 |Poverkhnost+ DTH (36E)|
+0654:000001 |(ID.Unused) Poverkhnost+ DTH (36E/39E)|
+0654:000002 |(ID.Unused) Poverkhnost+ DTH (36E/39E)|
+0654:000003 |(ID.Unused) Poverkhnost+ DTH (36E/39E)|
+0655:000000 |TV Mobilna (33E)|
+0656:000000 |Raj TV (83E)|
+0662:000000 |InXworld (13E)|
+0664:000000 |Digiturk (7E/42E)|
+0664:000001 |(ID.Unused) Digiturk|
+0664:000002 |(ID.Unused) Digiturk|
+0664:000003 |(ID.Unused) Digiturk|
+0666:000000 |CS Link (23.5E)
+0666:000001 |CS Link (23.5E)
+0666:000002 |CS Link (23.5E)
+0668:000000 |OSN (26E/7W)|
+0668:000001 |(ID.Unused) OSN|
+0668:000002 |(ID.Unused) OSN|
+0668:000003 |(ID.Unused) OSN|
+0682:000000 |Abu Dhabi Sport (26E/7W)|
+0682:000001 |(ID.Unused) Abu Dhabi Sport|
+0682:000002 |(ID.Unused) Abu Dhabi Sport|
+0682:000003 |(ID.Unused) Abu Dhabi Sport|
+0695:000000 |TV Mobilna (33E)|
+0900:000000 |Videoguard CAid|
+0905:000000 |SKY Mexico (58W)|
+0907:000000 |SKY Brazil (43W-C)|
+090B:000000 |Foxtel (156E)|
+090C:000000 |yes (4W)|
+090D:000000 |yes (4W)|
+090F:000000 |Viasat (5E/75E)|
+0915:000000 |Ono Cable Spain (DVB-C)|
+0917:000000 |Shenzhen Cable China (DVB-C)|
+0919:000000 |SKY Italia (13E)|
+091C:000000 |Canton (DVBC)|
+091F:000000 |Total TV (16E)|
+0926:000000 |Get Norge (DVBC)|
+0929:000000 |boom (4W)|
+092B:000000 |D-SMART (42E)|
+092D:000000 |Shanghai Cable China (DVBC)|
+092F:000000 |Dolce (39E)|
+0931:000000 |VisionTV (5E/13E)|
+0939:000000 |Cable Chongqing (DVBC)|
+093A:000000 |Ono Cable Spain (DVBC)|
+093B:000000 |SKY Italia (13E)|
+093B:000001 |(ID.Unused) SKY Italia|
+093B:000002 |(ID.Unused) SKY Italia|
+093B:000003 |(ID.Unused) SKY Italia|
+093E:000000 |Viasat (5E/75E)|
+0943:000000 |Gregtissa TV|
+0944:000000 |TataSky India (83E)|
+0945:000000 |Sky Mexico (58W)|
+0947:000000 |Tianjin Cable China (DVBC)|
+0960:000000 |SKY UK (28E)|
+0961:000000 |SKY UK (28E)|
+0962:000000 |DTH (4W)| 
+0963:000000 |SKY UK (28E)|
+0967:000000 |Reuters (22W)|
+0969:000000 |SkyTV (160E)|
+096A:000000 |SkyTV (160E)|
+096C:000000 |Foxtel (156E)|
+096E:000000 |Cable Hot (DVBC)|
+0979:000000 |Tellytrack (45E)|
+0983:000000 |Artear (43W-C)|
+0988:000000 |TVB (108E)|
+098C:000000 |SKY Deutschland (19E)|
+098E:000000 |KabelBW (DVBC)|
+09AA:000000 |Airtel (74E)|
+09AC:000000 |Astro TV (91E)|
+09AF:000000 |TeleColumbus/KabelKiosk/RTVI (9E/13E)|
+09B2:000000 |TVP (19E)|
+09B6:000000 |TeleClub Schweiz (DVBC)|
+09B8:000000 |TopTV (5E)|
+09B9:000000 |MyTV (1W)|
+09BD:000000 |Vivacom (45E)|
+09BE:000000 |OTE (9E/39E)|
+09C1:000000 |Indovision (108E)|
+09C4:000000 |SKY Deutschland (19E)|
+09C4:000001 |(ID.Unused) SKY Deutschland|
+09C4:000002 |(ID.Unused) SKY Deutschland|
+09C4:000003 |(ID.Unused) SKY Deutschland|
+09C4:000004 |(ID.Unused) SKY Deutschland|
+09C7:000000 |Kabel Deutschland (23E)|
+09CC:000000 |Shenzhen Cable China (DVB-C)|
+09CD:000000 |Sky Italia (13E)|
+09D0:000000 |TVP Info (19E)|
+09D2:000000 |Otau TV (60E)
+0B00:000000 |Akta/Kabel Kiosk/TVN/DigitAlb/Technisat/Aktiv TV/My TV/T-Home/Magio Sat/MBC HD/Starmax HD (5E/9E/13E/16E/19E/60E/68E/4W/7W/30W)|
+0B01:000000 |Salellite BG/N/Conto TV/RUV (23E/13E/1W)|
+0B00:001010 |TNK/N HDTV (13E) WilhelmTel DE [DVB-C]|
+0B00:001030 |WilhelmTel DE [DVB-C]|
+0B01:001050 |N HDTV (13E)|
+0B00:0071F1 |Technisat/MTV Unlimited (19E)|
+0B00:00E030 |Canal Digital Nordic (1W)|
+0B02:000000 |Vectra PL [DVBC]/Redlight/UPC/DaVinci (13E/1W/4W/5W)|
+0BAA:000000 |Hello HD+/Tring TV/eVision (9E/13E/16E)|
+0BBA:000000 |Hello HD+ (9E)|
+0B0F:000000 |Xtra TV (4W)|
+0D00:000000 |MTV/Arqiva/DigiTurk (13E/19E/5E/7/42)|
+0D00:000010 |MTV (13E/19E/9E/4W)|
+0D00:000020 |Kingstone/MTV PL (5E/13E/19E)&[EMU225]|
+0D00:000030 |Kingstone (5E/9E)&[EMU225]|
+0D00:000048 |MTV Mandarin (68E)|
+0D00:00004C |MTV India (68E)|
+0D00:0000C0 |Digiturk (7E/42E)|
+0D00:0000C4 |(ID.Unused) DigiTurk|
+0D00:0000C8 |(ID.Unused) DigiTurk|
+0D00:0000CC |(ID.Unused) DigiTurk|
+0D01:000000 |JSTV (13E)|
+0D01:0000E0 |JSTV (13E)|
+0D01:0000E4 |(ID.Unused) JSTV|
+0D01:0000E8 |(ID.Unused) JSTV|
+0D01:0000EC |(ID.Unused) JSTV|
+0D02:000000 |RTL/UPC Direct (13E/19E/1W)|
+0D02:000058 |RTL (13E)|
+0D02:0000A0 |UPC Direct (1W/19E)|
+0D02:0000A4 |(ID.Unused) UPC Direct|
+0D02:0000A8 |(ID.Unused) UPC Direct|
+0D02:00008C |(ID.Unused) UPC Direct|
+0D03:000000 |Skylink CZ/Turner/Disney (23E/19E/9E)|
+0D03:000004 |Skylink CZ (23E)|
+0D03:000008 |Skylink CZ Premium (23E/19E)|
+0D03:00000C |(ID.Unused) Skylink CZ| 
+0D03:000010 |(ID.Unused) Skylink CZ|
+0D03:000024 |(ID.Unused) Skylink CZ|
+0D03:000028 |(ID.Unused) Skylink CZ Premium|
+0D03:00005C |Turner (19E/13E/39E)|
+0D03:000060 |(ID.Unused) Turner|
+0D03:0000A0 |DISNEY (9E)&[EMU225]|
+0D03:0000A4 |(ID.Unused) DISNEY|
+0D03:0000A8 |(ID.Unused) DISNEY|
+0D03:0000AC |(ID.Unused) DISNEY|
+0D04:000000 |DMC (15W)|
+0D04:000004 |DMC (15W)|
+0D04:000008 |(ID.Unused) DMC|
+0D04:00000C |(ID.Unused) DMC|
+0D04:000010 |(ID.Unused) DMC|
+0D05:000000 |ORF/AustriaSat (19E)|
+0D05:000004 |ORF (19E)|
+0D05:000008 |Alpenglühen TVX (19E)|
+0D05:00000C |(ID.Unused) ORF|
+0D05:000010 |(ID.Unused) AustriaSat (19E)|
+0D06:000000 |Satellite BG (23E)|
+0D06:0000C0 |Satellite BG (23E)|
+0D06:0000C4 |(ID.Unused) Satellite BG|
+0D06:0000C8 |(ID.Unused) Satellite BG|
+0D06:0000CC |(ID.Unused) Satellite BG|
+0D07:000000 |BFBS (10E)/Antena Hungaria (DVBC)|
+0D07:000004 |Antena Hungaria (DVBC)|
+0D07:000008 |(ID.Unused) Antena Hungaria (DVBC)|
+0D07:00000C |(ID.Unused) Antena Hungaria (DVBC)|
+0D07:000010 |(ID.Unused) Antena Hungaria (DVBC)|
+0D07:000014 |BFBS (10E)|
+0D07:000018 |(ID.Unused) BFBS|
+0D07:00001C |(ID.Unused) BFBS|
+0D07:000020 |(ID.Unused) BFBS|
+0D08:000000 |AlMajd (26E)|
+0D08:000014 |AlMajd (26E)|
+0D08:000018 |(ID.Unused) AlMajd|
+0D08:00001C |(ID.Unused) AlMajd|
+0D08:000020 |(ID.Unused) AlMajd|
+0D0A:000000 |Halozat TV (4W)|
+0D0A:000004 |Halozat TV (4W)|
+0D0D:000000 |IKO Kable (4W)|
+0D0D:000010 |IKO Kable (4W)|
+0D0F:000000 |CS Link (23E)|
+0D0F:000004 |CS Link (23E)|
+0D0F:000008 |CS Link Premium (23E)|
+0D0F:00000C |(ID.Unused) CS Link|
+0D0F:000010 |(ID.Unused) CS Link|
+0D22:000000 |ESPN/Travel (19E)|
+0D22:000004 |ESPN/Travel (19E)|
+0D22:000008 |(ID.Unused) ArenaSAT|
+0D22:00000C |(ID.Unused) ArenaSAT|
+0D22:000010 |(ID.Unused) ArenaSAT|
+0D70:000000 |Skylink SK (23E)|
+0D70:000004 |Skylink SK (23E)|
+0D70:000008 |(ID.Unused) Skylink SK|
+0D70:00000C |(ID.Unused) Skylink SK|
+0D70:000010 |(ID.Unused) Skylink SK|
+0D71:000000 |Romantica (5E)|
+0D71:000004 |Romantica (5E)|
+0D95:000000 |ORF (19E)|
+0D95:000004 |ORF (19E)|
+0D95:000008 |(ID.Unused) ORF|
+0D95:00000C |(ID.Unused) ORF|
+0D95:000010 |(ID.Unused) ORF|
+0D96:000000 |Skylink (23E)|
+0D96:000004 |(ID.Unused) Skylink|
+0D96:000008 |(ID.Unused) Skylink|
+0D96:00000C |(ID.Unused) Skylink|
+0D96:000010 |(ID.Unused) Skylink|
+0D97:000000 |UPC Direct (1W)|
+0D97:000004 |(ID.Unused) UPC Direct|
+0D97:000008 |(ID.Unused) UPC Direct|
+0D97:00000C |(ID.Unused) UPC Direct|
+0D97:000010 |(ID.Unused) UPC Direct|
+0E00:000000 |PowerVu|
+0E00:000001 |PowerVu|
+0E00:000002 |PowerVu|
+0E00:000003 |PowerVu|
+1010:000000 |Arqiva OSN (21E)/Polaris (39E)|
+1702:000000 |SKY Germany/SKY Germany Extra (19E)[tunneled Nagra]|
+1702:000001 |(ID.Unused) SKY Germany|
+1702:000002 |(ID.Unused) SKY Germany|
+1702:000003 |(ID.Unused) SKY Germany|
+1702:000004 |(ID.Unused) SKY Germany|
+1702:000005 |(ID.Unused) SKY Germany|
+1702:000006 |(ID.Unused) SKY Germany|
+1702:000007 |(ID.Unused) SKY Germany|
+1708:000000 |OSN (7E)|
+1708:000001 |(ID.Unused) OSN|
+1708:000002 |(ID.Unused) OSN|
+1711:000000 |Reuters (10E)|
+1722:000000 |Kabel Deutschland (23E)[tunneled Nagra]|
+1722:000001 |(ID.Unused) Kabel Deutschland|
+1722:000002 |(ID.Unused) Kabel Deutschland|
+1722:000003 |(ID.Unused) Kabel Deutschland|
+1800:000000 |Nagravision CAid|
+1800:001D01 |MultiChoice TV Barbados (DVBC)|
+1800:003801 |DCG Swiss (DVBC)|
+1800:003901 |DCG Swiss (DVBC)|
+1800:003A01 |Teleclub (DVBC)|
+1800:003B01 |Teleclub (DVBC)|
+1800:004B11 |spain (DVBC)|
+1800:005401 |NTL (DVBC)|
+1800:005501 |NTL (DVBC)|
+1800:005601 |Quiero Tv (DVBT)[30W]|
+1800:005701 |Quiero Tv (DVBT)[30W]|
+1800:005A01 |TeleWest (DVBC)|
+1800:005B01 |TeleWest (DVBC)|
+1800:005C01 |Wireless (DVBC)|
+1800:005D01 |Wireless (DVBC)|
+1800:005E01 |Chorus (DVBC)|
+1800:005F01 |Chorus (DVBC)|
+1800:006801 |Fantasma (DVBC)|
+1800:006901 |Fantasma (DVBC)|
+1800:007201 |CableCom Swiss (DVBC)|
+1800:007301 |CableCom Swiss (DVBC)|
+1800:008C11 |Mediaset Premium (DVBT)|
+1800:008D11 |Mediaset Premium (DVBT)|
+1800:009801 |Shanghai (DVBC)|
+1800:009901 |Shanghai (DVBC)|
+1800:00A001 |OMNE (DVBC)|
+1800:00A101 |OMNE (DVBC)|
+1800:00C801 |RTN (95W)|
+1800:00C901 |RTN (95W)|
+1800:00F201 |RAJ TV (83E)|
+1800:00F301 |RAJ TV (83E)|
+1801:000000 |TV Globo/Kabel Deutschland/Telefonica/CableCom Swiss (13E/23E/61W) [DVBC]|
+1801:000906 |Kabel Deutschland (23E)&[EMU]|
+1801:001002 |UnityDigital/ISH/IESY/KabelBW (DVBC)&[EMU]|
+1801:001101 |(ID.Unused) Kabel Deutschland|
+1801:001102 |(ID.Unused) UnityDigital/ISH/IESY/KabelBW|
+1801:002601 |CableCom Swiss (DVBC)|
+1801:002701 |(ID.Unused) CableCom Swiss (DVBC)|
+1801:003811 |SouthAmerica (DVBC)|
+1801:003911 |(ID.Unused) SouthAmerica (DVBC)|
+1801:004A11 |RGalicia (DVBC)|
+1801:004B11 |(ID.Unused) RGalicia (DVBC)|
+1801:005601 |Onda Digital (DVBT)|
+1801:005701 |(ID.Unused) Onda Digital (DVBT)|
+1801:007211 |Telefonica (61W)|
+1801:007311 |(ID.Unused) Telefonica|
+1801:009401 |HKC (138E)|
+1801:009501 |(ID.Unused) HKC|
+1801:00C001 |Globecast/TV Globo (97W/13E)[NS]|
+1801:00C002 |TV Globo (13E)&[EMU]|
+1801:00C101 |(ID.Unused) Globecast/TV Globo|
+1801:00C102 |(ID.Unused) TV Globo|
+1802:00:000000 |TV Cabo [ROM142]/Multicanal (30W)/SABC (68)|
+1802:00:002011 |DigiTV (1W)|
+1802:002111 |(ID.Unused) DigiTV|
+1802:002113 |(ID.Unused) DigiTV|
+1802:004801 |(ID.Unused) TV Cabo|
+1802:004901 |(ID.Unused) TV Cabo|
+1802:008C11 |Mediaset Premium (13E/5W)|
+1802:008D11 |(ID.Unused) Mediaset Premium|
+1803:000000 |POLSAT HD [ROM142]/Mediaset Premium (13E/5W)|
+1803:007001 |(ID.Unused) Polsat HD|
+1803:007101 |(ID.Unused) Polsat HD|
+1803:008C11 |(ID.Unused) Mediaset Premium|
+1803:008D11 |(ID.Unused) Mediaset Premium|
+1804:000000 |(ID.Unused) Mediaset Premium|
+1804:008C11 |(ID.Unused) Mediaset Premium|
+1804:008D11 |(ID.Unused) Mediaset Premium|
+1805:000000 |(ID.Unused) Mediaset Premium|
+1805:008C11 |(ID.Unused) Mediaset Premium|
+1805:008D11 |(ID.Unused) Mediaset Premium|
+1807:000000 |Glamour+ (24W/DVBT)|
+1807:007911 |Glamour+ (24W/DVBT)|
+1807:007A11 |(ID.Unused) Glamour+|
+1810:000000 |Digital+ (30W/19E)|
+1810:004001 |Digital+ HD (30W/19E)[ROM180]|
+1810:004101 |(ID.Unused) Digital+ HD|
+1811:000000 |CanalSat France (19E)|
+1811:001104 |CanalSat France (19E)|
+1811:001504 |(ID.Unused) CSAT|
+1811:002504 |(ID.Unused) CSAT|
+1811:004104 |Mezzo (19E) [tunneled SecaNagra]|
+1811:004106 |(ID.Unused) Mezzo (19E)|
+1812:000000 |Gol TV Spain (DVBT)|
+1812:006E11 |Gol TV Spain (DVBT)|
+1813:000000 |Bis TV/Cyfra+ (13E)|
+1814:000000 |MEO PT DHT (30W)|
+1815:000000 |Bell (82W/91W)[ROM240]|
+1815:007811 |(ID.Unused) Bell|
+1815:007911 |(ID.Unused) Bell|
+1815:00B801 |UPC/DIGITAL NL (1W/19E/DVBC)[ROM142]|
+1815:00B901 |(ID.Unused) UPC/DIGITAL NL|
+1816:000000 |Dish Network US (61W)|
+1817:000000 |Canal+ NL (19E/23E)|
+1818:000000 |TV Vlaanderen (19E)|
+1819:000000 |TeleSat Wallonne (19E)|
+1820:000000 |Localia (30W)|
+1820:005601 |Localia (30W)|
+1820:005701 |(ID.Unused) Localia|
+1830:000000 |HD+ (19E) [ROM142]|
+1830:003411 |(ID.Unused) HD+|
+1830:003511 |(ID.Unused) HD+|
+1830:008011 |(ID.Unused) HD+|
+1830:00AA80 |T-HT/Max TV Croatia (16E)|
+1830:00AA81 |(ID.Unused) T-HT/Max TV Croatia|
+1831:000000 |Unitymedia 01 (DVBC)[UM01-ROM110]|
+1831:000401 |(ID.Unused) Unitymedia 01 (DVBC-sysid)|
+1831:001103 |(ID.Unused) Unitymedia 01 (DVBC-sysid)|
+1833:000000 |SKY Deutschland (19E)[ROM181]|
+1833:000401 |(ID.Unused) SKY Deutschland|
+1834:000000 |Kabel Deutschland (23E/19E)[ROM184]|
+1834:000401 |(ID.Unused) Kabel Deutschland|
+1835:000000 |Unitymedia 03 (DVBC)|
+1836:000000 |Blue Movie (19E)|
+1837:000000 |Kabel Dienst Leistungs (23E/19E)|
+1837:003411 |(ID.Unused) Kabel Dienst Leistungs|
+1838:000000 |Unitymedia 02 (DVBC-sysid) [ROM142]|
+1838:000401 |(ID.Unused) Unitymedia 02|
+1838:001103 |(ID.Unused) Unitymedia 02|
+1839:000000 |Kabel Deutschland (23E)|
+183D:000000 |TivuSat (13E)[ROM250]|
+183D:005411 |(ID.Unused) TivuSat|
+183D:008D11 |(ID.Unused) TivuSat|
+1840:000000 |Dish Network US (61W)|
+1841:000000 |Virgin Media (DVBC) [ROM180]|
+1843:000000 |HD+ (19E)|
+1843:003411 |(ID.Unused) HD+|
+1843:003504 |(ID.Unused) HD+|
+1843:003505 |(ID.Unused) HD+|
+1843:003511 |(ID.Unused) HD+|
+1843:003512 |(ID.Unused) HD+|
+1843:003513 |(ID.Unused) HD+|
+1843:008011 |(ID.Unused) HD+|
+1860:000000 |HD+ (19E)|
+1861:000000 |Cyfrowy Polsat (13E)/Kabel Deutschland (DVBC)|
+1861:000401 |Kabel Deutschland (DVBC)|
+1863:000000 |CSAT/BIS TV (19E)|
+1880:000000 |DigiTV (1W)[ROM190]|
+1880:002011 |(ID.Unused) DigiTV|
+1880:002111 |(ID.Unused) DigiTV|
+1880:002113 |(ID.Unused) DigiTV|
+2200:000000 |Inmedia (5E/60E)[codicrypt]|
+223B:000000 |Bundestag (23E)[codicrypt]|
+22E2:000000 |National TV (16E)[codicrypt]|
+22E3:000000 |Russian Radio (53E/13E)[codicrypt]|
+22F0:000000 |TV B92/BRAVO/MTV (16E/4W)[codicrypt]|
+2400:000000 |Sound Planet (144E)[StarGuide]|
+2600:000000 |EBU Biss [EMU]|
+2600:000020 |TV 1 Bosnia (16E)/Idman TV (42E)/AL Libyah (8W) EMU|
+2600:000021 |Lider TV (13E)/Opap TV (36E) EMU|
+2600:000022 |Mediagates (3E)/GTRK Pomorie (26E) EMU|
+2600:000023 |Rossiya 1 Tyumen (49E) EMU|
+2600:000025 |Mediagates (3E)/Al Aoula (13E)/Star World (52E) EMU|
+2600:000028 |Mediagates (3E)/STS +2h (53E) EMU|
+2600:000029 |Digea Greece (3E) EMU|
+2600:00002A |Alter Channel (3E)/NTV Spor (42E) EMU|
+2600:00002B |Mediagates (3E)/Digea Greece (3E)/STS 0h (53E) EMU|
+2600:00002C |Digea Greece (3E) EMU|
+2600:00002D |Digea Greece (3E) EMU|
+2600:00002E |Mediagates (3E)/Digea Greece (3E) EMU|
+2600:00002F |Digea Greece (3E) EMU|
+2600:000030 |ORTC (10E) EMU|
+2600:000031 |Mediagates (3E) EMU|
+2600:000033 |TV7 Bulgaria (31E) EMU|
+2600:000034 |Mediagates (3E) EMU|
+2600:000036 |T.Domashniy +2h (53E) EMU|
+2600:000037 |Mediagates (3E) EMU|
+2600:00003A |FX (52E) EMU|
+2600:00003C |T.Domashniy 0h (53E) EMU|
+2600:000042 |Lider TV (13E) EMU|
+2600:000064 |1TV Georgia (42E)/Rossiya 1 (66E) EMU|
+2600:000078 |RTVGE (7E) EMU|
+2600:000086 |Monitor Games (13E) EMU|
+2600:00009A |TeleOnce (55W) EMU|
+2600:00009B |Trecevision (55W) EMU|
+2600:00009E |Canal 3 El Super Canal (55W) EMU|
+2600:00009F |Televisiete (55W) EMU|
+2600:0000AA |Aflam TV (21E) EMU|
+2600:0000B5 |Duhok TV (57E) EMU|
+2600:0000C8 |BBC Two England (27W) EMU|
+2600:0000D2 |MBC Persia (7W)/Nash Dom (53E) EMU|
+2600:0000E3 |MBC Int (7W) EMU|
+2600:000100 |TRT1 (42E)/Inter (4W) EMU|
+2600:000101 |Rossiya 1 0h (40E)/SIC International (45W) EMU|
+2600:000102 |MGM Middle East (10E) EMU|
+2600:000103 |Al Riyadiah Earth (26E)/ENTV (5W/22W) EMU|
+2600:000104 |Opap TV (39E) EMU|
+2600:000105 |Radyo Vatan M (42E) EMU|
+2600:000106 |Radyo Vatan T (42E) EMU|
+2600:00010E |Ertu 1 (53E) EMU|
+2600:000113 |Odie (39E) EMU|
+2600:000116 |Rossiya2 (40E) EMU|
+2600:000118 |ERTU 2 (53E) EMU|
+2600:000122 |DHA Feed (42E) EMU|
+2600:00012C |BBC Three (27W) EMU|
+2600:000130 |BTB (30E) EMU|
+2600:000140 |First FM (42E) EMU|
+2600:000164 |TRT Haber (42E) EMU|
+2600:0001F4 |Chelsea TV (10E)/STV Belarus (53E)/TVI Internacional (30W) EMU|
+2600:0001FF |Mir Belogorya (60E)|
+2600:000200 |N24 Plus (16E)/CTC +7 (90E) EMU|
+2600:000212 |Dubai Sports (7W) EMU|
+2600:00022C |TRT3 (42E) EMU|
+2600:000258 |Premier League HD (10E)/BBC Parliament (27W) EMU|
+2600:0002D4 |NatGeo Wild HD (30W) EMU|
+2600:000320 |NBA TV (10E)/CBeebies (27W) EMU|
+2600:0003E8 |MCS Extreme (12.5W) EMU|
+2600:0003EF |Fox Sports HD Europe (30W) EMU| 
+2600:000400 |TRK Kyiv (4W) EMU|
+2600:00040B |Radio All For Peace (9E) EMU|
+2600:000520 |HOME +4 (90E) EMU|
+2600:000550 |CTC +4 (90E) EMU|
+2600:0005DE |Star TV (42E) EMU|
+2600:000610 |Pal FM (42E) EMU|
+2600:000611 |Pal Station (42E) EMU|
+2600:0007D0 |Ma Chaîne Sport (12.5) EMU|
+2600:0007DA |TV B92 (12W) EMU|
+2600:000801 |NBA ADHOC (10E) EMU|
+2600:000802 |NBA TV (10E) EMU|
+2600:00080A |Mekha TV (36E) EMU|
+2600:000900 |Inter+ (4W) EMU|
+2600:000B00 |Hockey (4W) EMU|
+2600:000BB8 |Trace Urban (12.5W) EMU|
+2600:000C00 |RTR Planeta (4W) EMU|
+2600:000C1C |BBC One Wales (27W) EMU|
+2600:000FA0 |Eurochannel (12.5W) EMU|
+2600:001004 |BBC One Scotland (27W) EMU|
+2600:001079 |Earth TV (15W) EMU|
+2600:00113A |Dubai Sports (13E) EMU|
+2600:001338 |Viasat History/Nature Africa (12.5W) EMU|
+2600:001389 |RDV (36E) EMU|
+2600:0013EC |BBC One Northern Ireland (27W) EMU|
+2600:001450 |SRTV Feed (16E) EMU|
+2600:001644 |HOME +7 (90E) EMU|
+2600:0017D4 |BBC HD (27W) EMU|
+2600:0017DE |TET (4.8E) EMU|
+2600:0017ED |1+1 International (4.8E) EMU|
+2600:001810 |First Ukraine (4.8E) EMU|
+2600:001838 |ITV 1 Central West HD (27W) EMU|
+2600:00189C |Channel 4 HD (27W) EMU|
+2600:0019D2 |Ukraina SD (4.8E) EMU|
+2600:00:00198C |BBC One HD (27W) EMU|
+4A60:000000 |(Inactive) Armenia Region TV (36E) [SkyPilot]|
+4AA1:000000 |Iberia/JSC Sports (13E/9E/7W)[KeyFly]|
+4ABF:000000 |Redlight TV (13E/5W) [SkyPilot]|
+4AD1:000000 |SISAL/JSC Sports (9E/7W) [Firecrypt]|
+4ADC:000000 |Tv Numeric (DVBT)[5W] [SafeAccess]|
+4AE:0000000 |Tricolor (36E) [DRE-Crypt]|
+4AE1:000000 |Platforma HD/Tricolor (9E/36E)[DRE-Crypt]|
+4AE1:000011 |Platforma HD/Tricolor (9E/36E)[DRE-Crypt]|
+4AE1:000013 |Platforma HD/Tricolor (9E/36E)[DRE-Crypt]|
+4AE1:000014 |Platforma HD/Tricolor (9E/36E)[DRE-Crypt]|
+4AE1:000015 |Platforma HD/Tricolor (9E/36E)[DRE-Crypt]|
+4AE5:000000 |Platforma HD (9E)[DRE-Crypt]|
+4AE8:000000 |Aktiv TV (60E)[Quintic]|
+4AEE:000000 |MagtiSat (31E)/Polaris (39E)[Deltacom]|
+4AF9:000000 |D-Sky (138E)[Topreal]|
+4B20:000000 |Sky Perfec TV (128E)[Multicom2]|
+5501:000000 |AthinaSat (39E) [Griffin]|
+5581:000000 |AthinaSat HD (39E) [Bulcrypt]|
+5601:000000 |NTV Plus (36E) [Verimatrix]|
+5604:000000 |ABS-CBN (5W) [Verimatrix]|

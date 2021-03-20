@@ -1,0 +1,156 @@
+# oscam.server generated automatically by Streamboard OSCAM 1.20_svn SVN r11678
+# Read more: https://svn.streamboard.tv/oscam/trunk/Distribution/doc/txt/oscam.server.txt
+
+[reader]
+label                         = iconepro
+enable                        = 0
+protocol                      = cccam
+device                        = iconepro.me,2021
+user                          = pHi$Cy@@
+password                      = icone2021
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccambird
+protocol                      = cccam
+device                        = t1.cccambird.com,18833
+user                          = 60510589
+password                      = cccambird
+inactivitytimeout             = 30
+disablecrccws_only_for        = 0500:030B00,050F00;098C:000000;09C4:000000;1803:000000
+group                         = 1
+disablecrccws                 = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = hack-sat
+protocol                      = cccam
+device                        = b1.hack-sat.org,14095
+user                          = 41.107.43.93
+password                      = https://hack-sat.com
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
+group                         = 1
+disablecrccws                 = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = hack-sat2
+protocol                      = cccam
+device                        = b1.hack-sat.org,14095
+user                          = 193.169.145.202
+password                      = https://hack-sat.com
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
+group                         = 1
+disablecrccws                 = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamprime
+enable                        = 0
+protocol                      = cccam
+device                        = s4.cccamprime.com,13008
+user                          = 94115956
+password                      = cccamprime
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamiptv
+enable                        = 0
+protocol                      = cccam
+device                        = free.cccamz.co,13000
+user                          = av89my
+password                      = cccamiptv.co
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = iptvfree
+enable                        = 0
+protocol                      = cccam
+device                        = cccam.iptvfree.us,21000
+user                          = tr8c2
+password                      = iptvfree.us
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
+group                         = 1
+disablecrccws                 = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamserver
+enable                        = 0
+protocol                      = cccam
+device                        = free.cccamserver.org,8443
+user                          = 5fc64ad8cf03d
+password                      = cccamserver
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamprima
+enable                        = 0
+protocol                      = cccam
+device                        = free.cccamprima.com,25008
+user                          = 4ckbfk
+password                      = cccamprima.com
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamgoo
+enable                        = 0
+protocol                      = cccam
+device                        = free.cccamgoo.com,26608
+user                          = m25vyw
+password                      = free
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
+group                         = 1
+cccversion                    = 2.0.11
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = emulator
+enable                        = 0
+protocol                      = unknown
+device                        = emulator
+disablecrccws_only_for        = 0E00:000000
+caid                          = 0500,0604,0E00,1010,1801,2600,2602,2610
+detect                        = cd
+ident                         = 0500:000000,007400,007800,021110,023800;0604:000000;0E00:000000;1010:000000;1801:000000,001101,002111,007301;2600:000000;2602:000000;2610:000000
+group                         = 1
+emmcache                      = 2,1,2,1
+

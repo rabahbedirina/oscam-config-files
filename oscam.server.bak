@@ -1,0 +1,118 @@
+# oscam.server generated automatically by Streamboard OSCAM 1.20_svn SVN r11669
+# Read more: https://svn.streamboard.tv/oscam/trunk/Distribution/doc/txt/oscam.server.txt
+
+[reader]
+label                         = dzairsat
+enable                        = 0
+protocol                      = cccam
+device                        = cccam.dzair-sat.com,17000
+user                          = 36853086
+password                      = dzair-sat
+inactivitytimeout             = 30
+group                         = 1
+cccversion                    = 2.0.11
+ccckeepalive                  = 1
+
+[reader]
+label                         = iconepro
+protocol                      = cccam
+device                        = iconepro.me,17102
+user                          = FijTTrRR
+password                      = iconepro
+inactivitytimeout             = 30
+disablecrccws_only_for        = 0500:030B00,050F00;098C:000000;09C4:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccambird
+enable                        = 0
+protocol                      = cccam
+device                        = t1.cccambird.com,18833
+user                          = 94784264
+password                      = cccambird
+inactivitytimeout             = 30
+disablecrccws_only_for        = 0500:030B00,050F00;098C:000000;09C4:000000
+group                         = 1
+cccversion                    = 2.3.2
+audisabled                    = 1
+
+[reader]
+label                         = hack-sat
+enable                        = 0
+protocol                      = cccam
+device                        = b1.hack-sat.org,14095
+user                          = 41.111.117.6
+password                      = http://flylinks.net
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamprime
+protocol                      = cccam
+device                        = s1.cccamprime.com,23000
+user                          = 03295526
+password                      = cccamprime
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = iconepro2
+protocol                      = cccam
+device                        = iconepro.me,17102
+user                          = d@tXG%k$
+password                      = iconepro
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = Realcccam
+protocol                      = cccam_mcs
+device                        = s3.realcccam.com,13000
+user                          = 6ce7d29
+password                      = 6e934a7
+inactivitytimeout             = 30
+group                         = 1
+disablecrccws                 = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = Constcw
+enable                        = 0
+protocol                      = constcw
+device                        = /config/oscam/constant.cw
+cacheex_maxhop                = 2
+cacheex_allow_request         = 1
+caid                          = 0D00,0D02,090F,0500,1801,0604,2600,FFFF,0E00,4AE1,1010
+ident                         = 0D00:000000,000004,000010,000014,000020,0000C0,0000C4,0000C8,0000CC;0D02:000000,00008C,0000A0,0000A4,0000A8;090F:000000;0500:000000,030B00,023800,021110,007400,007800;1801:000000,001101;0604:000000;2600:000000;FFFF:000000;0E00:000000;4AE1:000000;1010:000000
+group                         = 1
+cccreshare                    = 1
+
+[reader]
+label                         = emulator
+enable                        = 0
+protocol                      = unknown
+device                        = emulator
+disablecrccws_only_for        = 0E00:000000
+caid                          = 0500,0604,0E00,1010,1801,2600,2602,2610
+detect                        = cd
+ident                         = 0500:000000,007400,007800,021110,023800;0604:000000;0E00:000000;1010:000000;1801:000000,001101,002111,007301;2600:000000;2602:000000;2610:000000
+group                         = 1
+emmcache                      = 2,1,2,1
+

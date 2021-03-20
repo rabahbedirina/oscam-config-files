@@ -1,0 +1,32 @@
+# oscam.conf generated automatically by Streamboard OSCAM 1.20_svn SVN r11669
+# Read more: https://svn.streamboard.tv/oscam/trunk/Distribution/doc/txt/oscam.conf.txt
+
+[global]
+logfile                       = stdout
+disablecrccws_only_for        = 09C4:000000;098C:000000;098D:000000;0500:032830,030B00,042820,042800,043800,041950;0500:050F00;1708:000000
+
+[cache]
+
+[cccam]
+port                          = 12000
+nodeid                        = 8F9646C010251494
+version                       = 2.3.2
+reshare                       = 2
+
+[monitor]
+port                          = 988
+aulow                         = 120
+monlevel                      = 1
+
+[webif]
+httpport                      = 8888
+httpscript                    = /config/scripts/
+httptpl                       = /config/tpl/
+httppiconpath                 = /config/picons/
+http_prepend_embedded_css     = 1
+httppollrefresh               = 2
+httpshowpicons                = 1
+httppiconsize                 = 60
+httpallowed                   = 0.0.0.0-255.255.255.255
+aulow                         = 120
+
