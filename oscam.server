@@ -1,9 +1,8 @@
-# oscam.server generated automatically by Streamboard OSCAM 1.20_svn SVN r11678
+# oscam.server generated automatically by Streamboard OSCAM 1.20_svn SVN r11695
 # Read more: https://svn.streamboard.tv/oscam/trunk/Distribution/doc/txt/oscam.server.txt
 
 [reader]
 label                         = iconepro
-enable                        = 0
 protocol                      = cccam
 device                        = iconepro.me,2021
 user                          = pHi$Cy@@
@@ -18,8 +17,8 @@ audisabled                    = 1
 [reader]
 label                         = cccambird
 protocol                      = cccam
-device                        = t1.cccambird.com,18833
-user                          = 60510589
+device                        = t1.cccambird.com,12277
+user                          = 25315825
 password                      = cccambird
 inactivitytimeout             = 30
 disablecrccws_only_for        = 0500:030B00,050F00;098C:000000;09C4:000000;1803:000000
@@ -33,7 +32,7 @@ audisabled                    = 1
 label                         = hack-sat
 protocol                      = cccam
 device                        = b1.hack-sat.org,14095
-user                          = 41.107.43.93
+user                          = 41.107.126.232
 password                      = https://hack-sat.com
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
@@ -44,11 +43,11 @@ ccckeepalive                  = 1
 audisabled                    = 1
 
 [reader]
-label                         = hack-sat2
+label                         = tvlivepro
 protocol                      = cccam
-device                        = b1.hack-sat.org,14095
-user                          = 193.169.145.202
-password                      = https://hack-sat.com
+device                        = free.tvlivepro.com,40100
+user                          = 0oj6w
+password                      = tvlivepro
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
 group                         = 1
@@ -59,10 +58,9 @@ audisabled                    = 1
 
 [reader]
 label                         = cccamprime
-enable                        = 0
 protocol                      = cccam
 device                        = s4.cccamprime.com,13008
-user                          = 94115956
+user                          = 37470026
 password                      = cccamprime
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
@@ -72,11 +70,36 @@ ccckeepalive                  = 1
 audisabled                    = 1
 
 [reader]
-label                         = cccamiptv
-enable                        = 0
+label                         = cccambank
 protocol                      = cccam
-device                        = free.cccamz.co,13000
-user                          = av89my
+device                        = free.cccambank.com,26688
+user                          = 59ppw0
+password                      = cccambank.com
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccam.net
+protocol                      = cccam
+device                        = free.cccam.net,28764
+user                          = AFqZocdC
+password                      = cccam.net
+inactivitytimeout             = 30
+disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
+group                         = 1
+cccversion                    = 2.3.2
+ccckeepalive                  = 1
+audisabled                    = 1
+
+[reader]
+label                         = cccamiptv
+protocol                      = cccam_mcs
+device                        = free.cccamiptv.co,13000
+user                          = inzuwm
 password                      = cccamiptv.co
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
@@ -87,7 +110,6 @@ audisabled                    = 1
 
 [reader]
 label                         = iptvfree
-enable                        = 0
 protocol                      = cccam
 device                        = cccam.iptvfree.us,21000
 user                          = tr8c2
@@ -101,12 +123,11 @@ ccckeepalive                  = 1
 audisabled                    = 1
 
 [reader]
-label                         = cccamserver
-enable                        = 0
-protocol                      = cccam
-device                        = free.cccamserver.org,8443
-user                          = 5fc64ad8cf03d
-password                      = cccamserver
+label                         = cccamtiger
+protocol                      = cccam_mcs
+device                        = free1.cccamtiger.com,13065
+user                          = bmwdk
+password                      = cccamtiger
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
 group                         = 1
@@ -116,10 +137,9 @@ audisabled                    = 1
 
 [reader]
 label                         = cccamprima
-enable                        = 0
 protocol                      = cccam
 device                        = free.cccamprima.com,25008
-user                          = 4ckbfk
+user                          = kqx0u5
 password                      = cccamprima.com
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;0100:000068;1884:000068;1803:000000
@@ -130,11 +150,10 @@ audisabled                    = 1
 
 [reader]
 label                         = cccamgoo
-enable                        = 0
 protocol                      = cccam
-device                        = free.cccamgoo.com,26608
-user                          = m25vyw
-password                      = free
+device                        = free.cccambank.com,26688
+user                          = q5dzu8
+password                      = cccambank.com
 inactivitytimeout             = 30
 disablecrccws_only_for        = 09C4:000000;1708:000000;1709:000000;1803:000000
 group                         = 1
